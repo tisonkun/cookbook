@@ -1,2 +1,3 @@
-# cookbook
+# Cookbook
+
 Commands, queries, and scripts.
